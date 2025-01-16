@@ -16,4 +16,4 @@ spec:
       - name: healthcare-container
         image: health 
         ports:
-        - containerPort: 8089 
+        - containerPort: 8082
